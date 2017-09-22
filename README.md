@@ -7,12 +7,12 @@ How to install the requirements:
 
 Debian and based on Debian: 
 sudo apt install python-pip
-sudo pip install speech_recognition
+sudo pip install speechrecognition
 sudo pip install twilio
 
 Arch Linux and based on Arch Linux:
 sudo pacman -S python-pip
-sudo pip install speech_recognition
+sudo pip install speechrecognition
 sudo pip install twilio
 
 
